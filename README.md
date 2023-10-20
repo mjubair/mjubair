@@ -2,6 +2,9 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mjubair.visitor-badge)
 
+### Technologies
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,redux)](https://skillicons.dev)
+
 <!--
 **mjubair/mjubair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
