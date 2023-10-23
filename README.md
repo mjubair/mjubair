@@ -2,6 +2,9 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mjubair.visitor-badge)
 
+### My Digital Badges
+[![An image of @mjubair's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mjubair)](https://holopin.io/@mjubair)
+
 ### Technologies
 ![Technologies](https://skillicons.dev/icons?i=html,css,js,nodejs,react,redux)
 
